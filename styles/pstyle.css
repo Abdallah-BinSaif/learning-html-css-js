@@ -1,0 +1,20 @@
+.boxes{
+    border: 2px solid palevioletred;
+}
+
+.box{
+    border: 3px solid yellowgreen;
+    font-size: 30px;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+.dummy{
+    border: 3px solid burlywood;
+    font-size: 30px;
+    text-align: center;
+
+    height: 200px;
+    width: 200px;
+}
